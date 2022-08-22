@@ -1,0 +1,51 @@
+#header{
+    background: gainsboro;
+    height: 100px;
+}
+
+#header_logo{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+
+#header_text{
+    display: block;
+    margin-left: 100px; 
+    padding: 20px;
+}
+
+#menu{
+    background: grey;
+    height: 30px;
+}
+
+#main_content{
+    background: pink;
+}
+
+#footer{
+    background: red;
+    height: 150px;
+}
+
+#left_sidebar{
+    float: left;
+    width: 10%;
+    height: 400px;
+    background-color: blue;
+}
+
+#right_sidebar{
+    float: right;
+    width: 10%;
+    height: 400px;
+    background-color: blueviolet;
+}
+
+#content{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 400px;
+    background-color: aliceblue;
+}
